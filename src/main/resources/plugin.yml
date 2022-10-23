@@ -1,0 +1,8 @@
+name: EpicBattle
+version: '${project.version}'
+main: net.epicbattle.Plugin
+api-version: 1.19
+authors: [ JavaPishik ]
+commands:
+  game:
+    description: main command for plugin EpicBattle
